@@ -1,2 +1,2 @@
 # sftp-wrapper
-Library to manage an sftp connection using ssh2-sftp-client
+Library to manage a sftp connection using ssh2-sftp-client

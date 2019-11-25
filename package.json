@@ -1,0 +1,28 @@
+{
+  "name": "sftp-wrapper",
+  "version": "1.0.0",
+  "description": "Library to manage a sftp connection using ssh2-sftp-client",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaterineMoon/sftp-wrapper.git"
+  },
+  "keywords": [
+    "sftp",
+    "ssh2-sftp-client"
+  ],
+  "author": "KaterineMoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaterineMoon/sftp-wrapper/issues"
+  },
+  "homepage": "https://github.com/KaterineMoon/sftp-wrapper#readme",
+  "dependencies": {
+    "nodemon": "2.0.1",
+    "ssh2-sftp-client": "4.2.4"
+  }
+}
